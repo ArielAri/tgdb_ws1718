@@ -131,5 +131,6 @@ Speichere alle Änderungen deiner offenen Transaktion. Wie lautet der SQL-Befehl
 
 #### Lösung
 ```sql
-Deine Lösung
+COMMIT;
+ROLLBACK;
 ```
