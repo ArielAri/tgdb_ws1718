@@ -1,4 +1,4 @@
-#` Tutorium - Grundlagen Datenbanken - Blatt 1
+# Tutorium - Grundlagen Datenbanken - Blatt 1
 
 ## Aufgaben
 
@@ -10,5 +10,4 @@ Erstellen Sie mittels [Dia](http://dia-installer.de/index.html.de)  oder mit Ora
 
 
 
-
-La vie est  belle
+Ariel G.
